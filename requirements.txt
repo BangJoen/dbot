@@ -1,2 +1,1 @@
-discord.py
-asyncio
+discord==1.7.3
